@@ -8,7 +8,7 @@
 
 📚 I love reading books on **Software Architecture** & further developing my knowledge of architectural patterns. My favorite books are **Designing Data-Intensive Applications** by _Martin Kleppman_ and **Clean Architecture** by _Robert C. Martin_.
 
-👨‍💻 I'm currently getting into Blockchain development, I recently learned **Solidity* and implemented my first **Smart Contract** project as well as Layer 2 **The Graph** improvement for it.
+👨‍💻 I'm currently getting into Blockchain development, I recently learned **Solidity** and implemented my first **Smart Contract** project as well as Layer 2 **The Graph** improvement for it.
 
 ✈️ I love **traveling**. Most recently I have been on trips to **Italy**, **Thailand** and **Tanzania**.
 
