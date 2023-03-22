@@ -38,7 +38,7 @@
 ![mongodb](https://img.shields.io/badge/MongoDb-06B6D4?style=for-the-badge&logo=mongodb&logoColor=white)
 ![h2](https://img.shields.io/badge/H2-FF4785?style=for-the-badge&logo=h2&logoColor=white)
 
-### Block-Chain Development
+### Blockchain Development
 
 ![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
