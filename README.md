@@ -2,7 +2,7 @@
 
 ## About me
 
-🔭 I am Maciej Kolodziejczak, a **Senior Java Developer** and a **Project Team Leader** for PSI Software AG. 
+🔭 I'm Maciej Kolodziejczak, a **Senior Java Developer** and a **Project Team Leader** for PSI Software AG. 
 
 🎓 My **academic experience** includes Bachelor degree in Computer Science & Engineering and Master of Science studies.
 
