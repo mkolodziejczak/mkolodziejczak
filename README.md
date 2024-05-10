@@ -2,7 +2,7 @@
 
 ## About me
 
-🔭 I'm Maciej Kolodziejczak, **Senior Java Developer** and **Senior Tech Lead** for Datev EG. 
+🔭 I'm Maciej Kolodziejczak, **Java Developer** and **Senior Tech Lead** for Datev EG. 
 
 🎓 My **academic experience** includes Bachelor degree in Computer Science & Engineering and Master of Science studies.
 
